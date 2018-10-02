@@ -7,4 +7,6 @@ Wrangling, Cleaning And Analyzing WeRateThedogs tweets
 
 * The files here consist of the final code file, the rough work that was needed, the documentation detailing the steps of the process,the intial and the final dataset
 
+* The main file here is wrangle_act.ipynb
+
 * The project here is submitted towards acquirment of Data Analyst Nanodegree
